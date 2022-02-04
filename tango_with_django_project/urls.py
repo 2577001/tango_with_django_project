@@ -24,3 +24,5 @@ urlpatterns = [
     # The above maps any URLs starting with rango/ to be handled by rango.
     path('admin/', admin.site.urls),
 ]
+
+
